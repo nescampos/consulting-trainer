@@ -4,7 +4,7 @@ Consulting Trainer is a web app built with Python, Streamlit, LangChain and CAME
 The idea of this project is to train junior consultants before a requirements interview.
 
 ## Demo
-Video (with an explanation): https://youtu.be/lOJg2fFY2ec
+Video (with an explanation): https://youtu.be/e2FjJcuSz84
 
 ## How works
 
